@@ -11,6 +11,7 @@ namespace TestingGit
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        int test;
 
         public Game1()
         {
